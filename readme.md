@@ -1,1 +1,1 @@
-## Hello World! - Kamal Kishor | EH-KAMAL (kadvoscp).
+## Hello, world! - Kamal Kishor | EH-KAMAL {kadvoscp}.
